@@ -1,8 +1,9 @@
-public class Sum{
+public class multyply {
     public static void main(String[] args){
         int a = 5;
         int b = 6;
 
-        System.out.println("Tht sum is:"a+b);
+        System.out.println("The multyply is:" + a*b);
     }
+    
 }
